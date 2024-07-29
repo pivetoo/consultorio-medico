@@ -10,20 +10,20 @@ namespace ConsultorioMedico.Dominio.Entities
     public class Paciente
     {
         [Key]
-        public int Id { get; set; }
+        public virtual int Id { get; set; }
         [Required]
         [StringLength(100)]
-        public string Nome { get; set; }
+        public virtual string Nome { get; set; }
         [Required]
         [StringLength(11, MinimumLength = 11)]
-        public string Cpf { get; set; }
+        public virtual string Cpf { get; set; }
         [Required]
-        public DateTime DataNascimento { get; set; }
+        public virtual DateTime DataNascimento { get; set; }
         [StringLength(15)]
-        public string Telefone { get; set; }
+        public virtual string Telefone { get; set; }
         [StringLength(100)]
-        public string Email { get; set; }
+        public virtual string Email { get; set; }
         [StringLength(200)]
-        public string Endereco { get; set; }
+        public virtual string Endereco { get; set; }
     }
 }
