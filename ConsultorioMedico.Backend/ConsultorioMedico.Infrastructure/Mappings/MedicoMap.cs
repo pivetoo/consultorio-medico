@@ -15,7 +15,7 @@ namespace ConsultorioMedico.Infrastructure.Mappings
         {
             Table("Medicos");
 
-            Id(x => x.Id).GeneratedBy.Identity();
+            Id(x => x.Id).GeneratedBy.Sequence("medico_sequence");
 
             Map(x => x.Nome)
                 .Not.Nullable()
@@ -23,6 +23,7 @@ namespace ConsultorioMedico.Infrastructure.Mappings
 
             Map(x => x.Crm)
                 .Not.Nullable()
+                .Unique()
                 .Length(20);
 
             Map(x => x.Especialidade)
