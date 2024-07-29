@@ -10,11 +10,11 @@ namespace ConsultorioMedico.Dominio.Entities
     public class Consulta
     {
         [Key]
-        public int Id { get; set; }
-        public DateTime DataHoraConsulta { get; set; } = DateTime.Now;
+        public virtual int Id { get; set; }
+        public virtual DateTime DataHoraConsulta { get; set; } = DateTime.Now;
         [StringLength(100)]
-        public string Observacoes { get; set; }
-        public Paciente Paciente { get; set; }
-        public Medico Medico { get; set; }
+        public virtual string Observacoes { get; set; }
+        public virtual Paciente Paciente { get; set; }
+        public virtual Medico Medico { get; set; }
     }
 }

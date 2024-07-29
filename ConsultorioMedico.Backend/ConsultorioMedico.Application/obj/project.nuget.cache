@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TjmeXAXZjDI=",
+  "dgSpecHash": "fKKo9z/hjJ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj",
+  "projectFilePath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

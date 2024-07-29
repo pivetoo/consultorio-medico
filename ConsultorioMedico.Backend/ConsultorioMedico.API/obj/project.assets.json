@@ -6059,11 +6059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.API\\ConsultorioMedico.API.csproj",
+      "projectUniqueName": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.API\\ConsultorioMedico.API.csproj",
       "projectName": "ConsultorioMedico.API",
-      "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.API\\ConsultorioMedico.API.csproj",
+      "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.API\\ConsultorioMedico.API.csproj",
       "packagesPath": "C:\\Users\\Rogerio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.API\\obj\\",
+      "outputPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rogerio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6081,11 +6081,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj": {
-              "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj"
+            "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj": {
+              "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj"
             },
-            "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj"
+            "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {}
+    "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
+    "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj",
         "projectName": "ConsultorioMedico.Dominio",
-        "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj",
+        "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj",
         "packagesPath": "C:\\Users\\Rogerio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rogerio\\AppData\\Roaming\\NuGet\\NuGet.Config",

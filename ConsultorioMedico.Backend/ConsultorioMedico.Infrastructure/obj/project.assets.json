@@ -5605,11 +5605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj",
       "projectName": "ConsultorioMedico.Infrastructure",
-      "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Rogerio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rogerio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5627,8 +5627,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj"
+            "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj"
             }
           }
         }

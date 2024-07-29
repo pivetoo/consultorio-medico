@@ -32,7 +32,9 @@ builder.Services.AddScoped(provider =>
 
 // Register repositories
 builder.Services.AddScoped<IMedicoRepository, MedicoRepository>();
+builder.Services.AddScoped<IPacienteRepository, PacienteRepository>();
 builder.Services.AddScoped<MedicoService>();
+builder.Services.AddScoped<PacienteService>();
 
 // Add Swagger/OpenAPI support
 builder.Services.AddEndpointsApiExplorer();
