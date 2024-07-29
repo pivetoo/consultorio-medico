@@ -1,0 +1,11 @@
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\bin\Debug\net8.0\ConsultorioMedico.Dominio.deps.json
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\bin\Debug\net8.0\ConsultorioMedico.Dominio.dll
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\bin\Debug\net8.0\ConsultorioMedico.Dominio.pdb
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\obj\Debug\net8.0\ConsultorioMedico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\obj\Debug\net8.0\ConsultorioMedico.Dominio.AssemblyInfoInputs.cache
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\obj\Debug\net8.0\ConsultorioMedico.Dominio.AssemblyInfo.cs
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\obj\Debug\net8.0\ConsultorioMedico.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\obj\Debug\net8.0\ConsultorioMedico.Dominio.dll
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\obj\Debug\net8.0\refint\ConsultorioMedico.Dominio.dll
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\obj\Debug\net8.0\ConsultorioMedico.Dominio.pdb
+C:\Users\Rogerio\source\repos\ConsultorioMedico\ConsultorioMedico.Dominio\obj\Debug\net8.0\ref\ConsultorioMedico.Dominio.dll

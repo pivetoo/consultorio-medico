@@ -1,0 +1,6 @@
+@ConsultorioMedico.API_HostAddress = http://localhost:5258
+
+GET {{ConsultorioMedico.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
