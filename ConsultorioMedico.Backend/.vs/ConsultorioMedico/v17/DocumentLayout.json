@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3C389CC-3F89-4B53-A613-DB53CD32968E}|ConsultorioMedico.API\\ConsultorioMedico.API.csproj|c:\\users\\rogerio\\source\\repos\\consultoriomedico\\consultoriomedico.backend\\consultoriomedico.api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C389CC-3F89-4B53-A613-DB53CD32968E}|ConsultorioMedico.API\\ConsultorioMedico.API.csproj|solutionrelative:consultoriomedico.api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2430FE7F-1FD9-43D8-B2A1-6EF75ABF5425}|ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj|c:\\users\\rogerio\\source\\repos\\consultoriomedico\\consultoriomedico.backend\\consultoriomedico.application\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2430FE7F-1FD9-43D8-B2A1-6EF75ABF5425}|ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj|solutionrelative:consultoriomedico.application\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DBCD573B-41B8-47A8-AAB6-D380D5688CB0}|ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj|c:\\users\\rogerio\\source\\repos\\consultoriomedico\\consultoriomedico.backend\\consultoriomedico.dominio\\entities\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCD573B-41B8-47A8-AAB6-D380D5688CB0}|ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj|solutionrelative:consultoriomedico.dominio\\entities\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{DBCD573B-41B8-47A8-AAB6-D380D5688CB0}|ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj|solutionrelative:consultoriomedico.dominio\\entities\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3C389CC-3F89-4B53-A613-DB53CD32968E}|ConsultorioMedico.API\\ConsultorioMedico.API.csproj|c:\\users\\rogerio\\source\\repos\\consultoriomedico\\consultoriomedico.backend\\consultoriomedico.api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C389CC-3F89-4B53-A613-DB53CD32968E}|ConsultorioMedico.API\\ConsultorioMedico.API.csproj|solutionrelative:consultoriomedico.api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3C389CC-3F89-4B53-A613-DB53CD32968E}|ConsultorioMedico.API\\ConsultorioMedico.API.csproj|c:\\users\\rogerio\\source\\repos\\consultoriomedico\\consultoriomedico.backend\\consultoriomedico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C389CC-3F89-4B53-A613-DB53CD32968E}|ConsultorioMedico.API\\ConsultorioMedico.API.csproj|solutionrelative:consultoriomedico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2B14871-CD46-4259-B902-ED7F41F835EB}|ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj|c:\\users\\rogerio\\source\\repos\\consultoriomedico\\consultoriomedico.backend\\consultoriomedico.infrastructure\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B14871-CD46-4259-B902-ED7F41F835EB}|ConsultorioMedico.Infrastructure\\ConsultorioMedico.Infrastructure.csproj|solutionrelative:consultoriomedico.infrastructure\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2430FE7F-1FD9-43D8-B2A1-6EF75ABF5425}|ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj|c:\\users\\rogerio\\source\\repos\\consultoriomedico\\consultoriomedico.backend\\consultoriomedico.application\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2430FE7F-1FD9-43D8-B2A1-6EF75ABF5425}|ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj|solutionrelative:consultoriomedico.application\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2430FE7F-1FD9-43D8-B2A1-6EF75ABF5425}|ConsultorioMedico.Application\\ConsultorioMedico.Application.csproj|c:\\users\\rogerio\\source\\repos\\consultoriomedico\\consultoriomedico.backend\\consultoriomedico.application\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Consulta.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\Entities\\Consulta.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.Dominio\\Entities\\Consulta.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ConsultaMap.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\Mappings\\ConsultaMap.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.Infrastructure\\Mappings\\ConsultaMap.cs",
@@ -91,12 +91,11 @@
               "RelativeToolTip": "ConsultorioMedico.Infrastructure\\Mappings\\ConsultaMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:18:17.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T02:18:17.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Medico.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\Entities\\Medico.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.Dominio\\Entities\\Medico.cs",
@@ -104,12 +103,11 @@
               "RelativeToolTip": "ConsultorioMedico.Dominio\\Entities\\Medico.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:16:03.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T02:16:03.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.API\\Program.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.API\\Program.cs",
@@ -117,12 +115,11 @@
               "RelativeToolTip": "ConsultorioMedico.API\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:10:12.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T02:10:12.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MedicoMap.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\Mappings\\MedicoMap.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.Infrastructure\\Mappings\\MedicoMap.cs",
@@ -130,12 +127,11 @@
               "RelativeToolTip": "ConsultorioMedico.Infrastructure\\Mappings\\MedicoMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:05:15.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T02:05:15.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PacienteMap.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\Mappings\\PacienteMap.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.Infrastructure\\Mappings\\PacienteMap.cs",
@@ -143,12 +139,11 @@
               "RelativeToolTip": "ConsultorioMedico.Infrastructure\\Mappings\\PacienteMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:05:09.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T02:05:09.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MedicoController.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.API\\Controllers\\MedicoController.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.API\\Controllers\\MedicoController.cs",
@@ -156,12 +151,11 @@
               "RelativeToolTip": "ConsultorioMedico.API\\Controllers\\MedicoController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T01:59:04.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T01:59:04.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "PacienteController.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.API\\Controllers\\PacienteController.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.API\\Controllers\\PacienteController.cs",
@@ -182,25 +176,24 @@
               "RelativeToolTip": "ConsultorioMedico.Application\\Services\\PacienteService.cs",
               "ViewState": "AQIAAEoAAAAAAAAAAADwv14AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T01:05:43.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T01:05:43.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "MedicoService.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Application\\Services\\MedicoService.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.Application\\Services\\MedicoService.cs",
               "ToolTip": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Application\\Services\\MedicoService.cs",
               "RelativeToolTip": "ConsultorioMedico.Application\\Services\\MedicoService.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAADwv0cAAAAJAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAUwHkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T01:41:59.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Dominio\\Entities\\Paciente.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.Dominio\\Entities\\Paciente.cs",
@@ -208,8 +201,7 @@
               "RelativeToolTip": "ConsultorioMedico.Dominio\\Entities\\Paciente.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T01:30:08.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T01:30:08.994Z"
             },
             {
               "$type": "Document",
@@ -221,8 +213,7 @@
               "RelativeToolTip": "ConsultorioMedico.Application\\DTOs\\PacienteDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T01:30:00.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T01:30:00.252Z"
             },
             {
               "$type": "Document",
@@ -234,12 +225,11 @@
               "RelativeToolTip": "ConsultorioMedico.Infrastructure\\Repositories\\MedicoRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAGUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:58:59.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T00:58:59.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PacienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Rogerio\\source\\repos\\ConsultorioMedico\\ConsultorioMedico.Backend\\ConsultorioMedico.Infrastructure\\Repositories\\PacienteRepository.cs",
               "RelativeDocumentMoniker": "ConsultorioMedico.Infrastructure\\Repositories\\PacienteRepository.cs",
@@ -247,8 +237,7 @@
               "RelativeToolTip": "ConsultorioMedico.Infrastructure\\Repositories\\PacienteRepository.cs",
               "ViewState": "AQIAAFgAAAAAAAAAAAAUwBIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:58:13.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T00:58:13.205Z"
             }
           ]
         }

@@ -11,7 +11,7 @@ namespace ConsultorioMedico.Dominio.Entities
     {
         [Key]
         public virtual int Id { get; set; }
-        public virtual DateTime DataHoraConsulta { get; set; } = DateTime.Now;
+        public virtual DateTime DataHoraConsulta { get; set; }
         [StringLength(100)]
         public virtual string Observacoes { get; set; }
         public virtual Paciente Paciente { get; set; }
