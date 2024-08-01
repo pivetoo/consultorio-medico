@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsultorioMedico.Application.Services
 {
-    public class ConsultaS
+    public class ConsultaService
     {
     }
 }
