@@ -32,7 +32,23 @@ namespace ConsultorioMedico.Infrastructure.Mappings
                 .Not.Nullable()
                 .Length(200);
 
-            Map(x => x.Endereco)
+            Map(x => x.Cep)
+                .Not.Nullable()
+                .Length(100);
+
+            Map(x => x.Rua)
+                .Not.Nullable()
+                .Length(100);
+
+            Map(x => x.Bairro)
+                .Not.Nullable()
+                .Length(100);
+
+            Map(x => x.Cidade)
+                .Not.Nullable()
+                .Length(100);
+
+            Map(x => x.Numero)
                 .Not.Nullable()
                 .Length(100);
         }

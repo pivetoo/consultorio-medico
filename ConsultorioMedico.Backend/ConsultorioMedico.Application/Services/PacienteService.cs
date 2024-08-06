@@ -31,7 +31,10 @@ namespace ConsultorioMedico.Application.Services
                 DataNascimento = p.DataNascimento,
                 Telefone = p.Telefone,
                 Email = p.Email,
-                Endereco = p.Endereco,
+                Cep = p.Cep,
+                Bairro = p.Bairro,
+                Rua = p.Rua,
+                Numero = p.Numero,
             });
         }
 
@@ -52,7 +55,10 @@ namespace ConsultorioMedico.Application.Services
                 DataNascimento = paciente.DataNascimento,
                 Telefone = paciente.Telefone,
                 Email = paciente.Email,
-                Endereco = paciente.Endereco
+                Cep = paciente.Cep,
+                Bairro = paciente.Bairro,
+                Rua = paciente.Rua,
+                Numero = paciente.Numero,
             };
         }
 
@@ -67,7 +73,10 @@ namespace ConsultorioMedico.Application.Services
                 DataNascimento = pacienteDto.DataNascimento,
                 Telefone = pacienteDto.Telefone,
                 Email = pacienteDto.Email,
-                Endereco = pacienteDto.Endereco,
+                Cep = pacienteDto.Cep,
+                Bairro = pacienteDto.Bairro,
+                Rua = pacienteDto.Rua,
+                Numero = pacienteDto.Numero,
             };
 
             return _pacienteRepository.Create(paciente, out errors);

@@ -24,6 +24,14 @@ namespace ConsultorioMedico.Dominio.Entities
         [StringLength(100)]
         public virtual string Email { get; set; }
         [StringLength(200)]
-        public virtual string Endereco { get; set; }
+        public virtual string Cep { get; set; }
+        [StringLength(200)]
+        public virtual string Rua { get; set; }
+        [StringLength(200)]
+        public virtual string Cidade { get; set; }
+        [StringLength(200)]
+        public virtual string Bairro { get; set; }        
+        [StringLength(200)]
+        public virtual string Numero { get; set; }
     }
 }
